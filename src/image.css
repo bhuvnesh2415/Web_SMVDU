@@ -1,0 +1,11 @@
+.Upload_Image{
+    background: #e7240e;
+    padding: 10px 25px !important;
+    font-family: roboto !important;
+    border-radius: 5px;
+    font-weight: 600;
+    color: white;
+    border: none;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}

@@ -1,0 +1,124 @@
+* {
+  padding: 0;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.all_form{
+  max-width: 1218px;
+  margin: 0 auto;
+  margin-top: 20px;
+  background: #fff;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 13%);
+  padding: 0px 20px 0px 20px;
+
+}
+.ALUMNI_TITLE{
+  text-transform: uppercase;
+  font-size: 25px;
+  margin: 15px 0px 15px 0px;
+  border: none;
+  border-bottom: 1px solid #eee;
+  font-weight: 700;
+  color:#C4122F ;
+}
+.star{
+color: red;
+}
+.ALUMNI_FLEX{
+  display: flex;
+  width: 100%;
+/* padding: 0px 20px 0px 20px; */
+  font-family: 'merri weather','Helvetica Neue',Arial,sans-serif !important;
+font-size: 16px; 
+}
+
+.ALUMNI_ONE{
+width: 50%;
+padding-right:15px ;
+}
+.ALUMNI_text{
+height: 34px;
+width: 100%;
+margin-top: 10px;
+margin-bottom: 10px;
+border: 1px solid black;
+
+}
+.ALUMNI_NAME
+{
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+
+}
+.ALUMNI_TWO{
+  width: 50%;
+}
+.ALUMNI_text2{
+  height: 34px;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+
+  }
+.ALUMNI_Education{
+  background:#C4122F ;
+    width: 100%;
+    padding: 10px;
+    color: #fff;
+    margin: 20px 0 20px 0;
+}
+.ALUMNI_textarea{
+  margin-top: 10px;
+max-width:100% ;
+border: 1px solid black;
+
+}
+.ALUMNI_Submit_main1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+.ALUMNI_Submit_main2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+
+}
+.ALUMNI_Submit{
+  background: #ff7a00;
+    padding: 10px 25px !important;
+    font-family: roboto !important;
+    border-radius: 5px;
+    font-weight: 600;
+    border: none;
+    margin-bottom: 30px;
+
+}
+
+
+
+@media (max-width:430px){
+  .ALUMNI_TITLE{
+    
+    font-size: 22px;
+  }
+  .ALUMNI_FLEX{
+    display: block;
+  }
+  .ALUMNI_ONE{
+    width: 100%;
+    padding-right:0px ;
+    }
+
+    .ALUMNI_TWO{
+      width:100%;
+    }
+}
+
+
