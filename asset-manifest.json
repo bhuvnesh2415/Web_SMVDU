@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smvdu_alumni/static/css/main.c19adb49.css",
+    "main.js": "/smvdu_alumni/static/js/main.8d16301f.js",
+    "static/js/787.80088028.chunk.js": "/smvdu_alumni/static/js/787.80088028.chunk.js",
+    "index.html": "/smvdu_alumni/index.html",
+    "main.c19adb49.css.map": "/smvdu_alumni/static/css/main.c19adb49.css.map",
+    "main.8d16301f.js.map": "/smvdu_alumni/static/js/main.8d16301f.js.map",
+    "787.80088028.chunk.js.map": "/smvdu_alumni/static/js/787.80088028.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c19adb49.css",
+    "static/js/main.8d16301f.js"
+  ]
+}
